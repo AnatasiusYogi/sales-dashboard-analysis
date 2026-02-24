@@ -29,11 +29,8 @@ Analisis dilakukan untuk mengidentifikasi pertumbuhan penjualan, tingkat profita
 - **Microsoft Excel** → Data cleaning & eksplorasi awal  
 - **SQL (BigQuery)** → Analisis dan pengolahan data  
 - **Looker Studio** → Visualisasi dashboard  
-- **Git & GitHub** → Version control dan dokumentasi proyek  
-
----
-
-
+- **Git & GitHub** → Version control dan dokumentasi proyek
+  
 ---
 
 ## 📈 Insight Utama
@@ -51,6 +48,12 @@ Analisis dilakukan untuk mengidentifikasi pertumbuhan penjualan, tingkat profita
 - Otomatisasi update dashboard menggunakan n8n
 - Pembuatan sistem notifikasi performa penjualan
 - Pengembangan pipeline ETL sederhana
+
+---
+
+## 🏢 Looker 
+Link Dashboard Visulisasi = https://lookerstudio.google.com/s/mYCsq0UIiHg  
+<img width="1438" height="1079" alt="Dashboard Visualisasi" src="https://github.com/user-attachments/assets/ca1a67fb-fa37-4ebd-afa3-34a944221278" />
 
 ---
 
