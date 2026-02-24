@@ -65,4 +65,4 @@ GitHub: https://github.com/AnatasiusYogi
 
 ---
 
-⭐ Proyek ini dibuat sebagai bagian dari pengembangan portofolio Data Analyst.
+⭐ Proyek ini dibuat sebagai bagian dari pengembangan portofolio Data Analyst.  
