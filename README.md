@@ -1,12 +1,12 @@
-# 📊 Analisis Data Penjualan & Dashboard Interaktif
+# Analisis Data Penjualan & Dashboard Interaktif
 
-## 📌 Deskripsi Proyek
+##  Deskripsi Proyek
 Proyek ini bertujuan untuk menganalisis performa penjualan perusahaan berdasarkan dataset transaksi.  
 Analisis dilakukan untuk mengidentifikasi pertumbuhan penjualan, tingkat profitabilitas, serta peluang peningkatan efisiensi bisnis melalui visualisasi dashboard interaktif.
 
 ---
 
-## 🎯 Tujuan Analisis
+##  Tujuan Analisis
 - Menganalisis total penjualan dan total keuntungan
 - Mengukur tingkat profitabilitas (Profit Margin)
 - Mengidentifikasi produk dan kategori paling menguntungkan
@@ -15,7 +15,7 @@ Analisis dilakukan untuk mengidentifikasi pertumbuhan penjualan, tingkat profita
 
 ---
 
-## 📊 Key Performance Indicators (KPI)
+##  Key Performance Indicators (KPI)
 
 - **Total Sales** → Total pendapatan yang dihasilkan  
 - **Total Profit** → Total keuntungan bersih  
@@ -24,7 +24,7 @@ Analisis dilakukan untuk mengidentifikasi pertumbuhan penjualan, tingkat profita
 
 ---
 
-## 🛠 Tools & Teknologi yang Digunakan
+##  Tools & Teknologi yang Digunakan
 
 - **Microsoft Excel** → Data cleaning & eksplorasi awal  
 - **SQL (BigQuery)** → Analisis dan pengolahan data  
@@ -33,7 +33,7 @@ Analisis dilakukan untuk mengidentifikasi pertumbuhan penjualan, tingkat profita
   
 ---
 
-## 📈 Insight Utama
+##  Insight Utama
 
 - Region dengan penjualan tertinggi belum tentu memiliki profit tertinggi.
 - Kategori dengan margin terbesar menjadi kontributor utama keuntungan.
@@ -42,7 +42,7 @@ Analisis dilakukan untuk mengidentifikasi pertumbuhan penjualan, tingkat profita
 
 ---
 
-## 🚀 Pengembangan Selanjutnya
+##  Pengembangan Selanjutnya
 
 - Implementasi scheduled query di BigQuery
 - Otomatisasi update dashboard menggunakan n8n
@@ -57,7 +57,7 @@ Link Dashboard Visulisasi = https://lookerstudio.google.com/s/mYCsq0UIiHg
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Anatasius Yogi Ardiyanto**  
 Lulusan Sistem Informasi  
@@ -65,7 +65,3 @@ Fokus pada Data Processing & Automation
 
 LinkedIn: https://www.linkedin.com/in/anatasiusyogi15    
 GitHub: https://github.com/AnatasiusYogi
-
----
-
-⭐ Proyek ini dibuat sebagai bagian dari pengembangan portofolio Data Analyst.  
